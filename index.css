@@ -1,0 +1,36 @@
+
+svg{
+	width:15%;
+}
+.redes-sociais{
+	fill:blue;
+}
+svg:hover{
+	fill:white;
+	cursor:pointer;
+}
+#logo-recode{
+	width:60%;
+}
+#informacoes{
+	text-align:left;
+	font-size:70%;
+}
+#LogoPata{
+	width:7%;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+@media(min-width:576px){
+svg{
+	margin:20px;
+}
+svg{
+	width:7%;
+}
+#LogoPata{
+	width:5%;
+}
+}
